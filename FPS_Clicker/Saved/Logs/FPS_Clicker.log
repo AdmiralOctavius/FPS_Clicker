@@ -1653,3 +1653,146 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.21-23.57.42:253][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Level1Items/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel'
 [2019.04.21-23.57.42:354][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.04.21-23.57.42:398][681]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.04.22-00.09.37:329][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-00.09.37:357][102]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.22-00.09.37:731][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Level1Items/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.22-00.09.37:731][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-00.09.37:748][102]PIE: New page: PIE session: MainLevel (Apr 21, 2019, 4:09:37 PM)
+[2019.04.22-00.09.37:772][102]LogPlayLevel: Creating play world package: /Game/Level1Items/UEDPIE_0_MainLevel
+[2019.04.22-00.09.37:890][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117262s)
+[2019.04.22-00.09.37:898][102]LogAIModule: Creating AISystem for world MainLevel
+[2019.04.22-00.09.37:898][102]LogPlayLevel: PIE: World Init took: (0.008755s)
+[2019.04.22-00.09.37:898][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1Items/MainLevel.MainLevel to /Game/Level1Items/UEDPIE_0_MainLevel.MainLevel (0.126317s)
+[2019.04.22-00.09.40:296][102]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.22-00.09.40:325][102]LogInit: FAudioDevice initialized.
+[2019.04.22-00.09.40:365][102]LogLoad: Game class is 'ShopGM_C'
+[2019.04.22-00.09.40:437][102]LogWorld: Bringing World /Game/Level1Items/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.04.21-20.09.40
+[2019.04.22-00.09.40:448][102]LogWorld: Bringing up level for play took: 0.068147
+[2019.04.22-00.09.40:489][102]LogBlueprintUserMessages: [ShopGM_C_0] false
+[2019.04.22-00.09.40:490][102]PIE: Play in editor start time for /Game/Level1Items/UEDPIE_0_MainLevel 2.381
+[2019.04.22-00.09.40:490][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Level1Items/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.22-00.09.56:927][190]LogNet: Browse: /Game/Level2
+[2019.04.22-00.09.56:929][190]LogLoad: LoadMap: /Game/Level2
+[2019.04.22-00.09.57:200][190]LogAIModule: Creating AISystem for world Level2
+[2019.04.22-00.09.57:201][190]LogLoad: Game class is 'ShopGM_C'
+[2019.04.22-00.09.57:204][190]LogWorld: Bringing World /Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.04.21-20.09.57
+[2019.04.22-00.09.57:204][190]LogWorld: Bringing up level for play took: 0.002768
+[2019.04.22-00.09.57:208][190]LogBlueprintUserMessages: [ShopGM_C_0] false
+[2019.04.22-00.09.57:209][190]LogLoad: Took 0.280415 seconds to LoadMap(/Game/Level2)
+[2019.04.22-00.09.57:990][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Level1Items/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.22-00.09.57:990][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-00.09.58:030][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-00.09.58:031][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Level1Items/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.22-00.09.58:127][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-00.09.58:176][246]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.04.22-00.10.01:652][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-00.10.43:297][838]BlueprintLog: New page: Compile ShopGM
+[2019.04.22-00.10.44:144][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShopBlueprints/ShopGM" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/ShopGM.uasset" SILENT=true
+[2019.04.22-00.10.44:268][865]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/ShopGME96EAA254AE347BD382592B9DDA03C16.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/ShopGM.uasset'
+[2019.04.22-00.10.45:808][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorBP" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/DoorBP.uasset" SILENT=true
+[2019.04.22-00.10.45:838][ 28]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/DoorBPAA879B9A4BB1983C3E4356B0F965F5D9.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/DoorBP.uasset'
+[2019.04.22-00.10.49:553][379]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.22-00.10.49:603][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Level1Items/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.22-00.10.49:604][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-00.10.49:604][379]PIE: New page: PIE session: MainLevel (Apr 21, 2019, 4:10:49 PM)
+[2019.04.22-00.10.49:604][379]LogPlayLevel: Creating play world package: /Game/Level1Items/UEDPIE_0_MainLevel
+[2019.04.22-00.10.49:632][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027724s)
+[2019.04.22-00.10.49:633][379]LogAIModule: Creating AISystem for world MainLevel
+[2019.04.22-00.10.49:633][379]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.04.22-00.10.49:633][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1Items/MainLevel.MainLevel to /Game/Level1Items/UEDPIE_0_MainLevel.MainLevel (0.028910s)
+[2019.04.22-00.10.49:786][379]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.22-00.10.49:802][379]LogInit: FAudioDevice initialized.
+[2019.04.22-00.10.49:839][379]LogLoad: Game class is 'ShopGM_C'
+[2019.04.22-00.10.49:852][379]LogWorld: Bringing World /Game/Level1Items/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.04.21-20.10.49
+[2019.04.22-00.10.49:854][379]LogWorld: Bringing up level for play took: 0.013853
+[2019.04.22-00.10.49:871][379]LogBlueprintUserMessages: [ShopGM_C_0] false
+[2019.04.22-00.10.49:872][379]PIE: Play in editor start time for /Game/Level1Items/UEDPIE_0_MainLevel -0.238
+[2019.04.22-00.10.49:872][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Level1Items/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.22-00.10.54:598][690]LogNet: Browse: /Game/Level2
+[2019.04.22-00.10.54:599][690]LogLoad: LoadMap: /Game/Level2
+[2019.04.22-00.10.54:773][690]LogAIModule: Creating AISystem for world Level2
+[2019.04.22-00.10.54:774][690]LogLoad: Game class is 'ShopGM_C'
+[2019.04.22-00.10.54:776][690]LogWorld: Bringing World /Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.04.21-20.10.54
+[2019.04.22-00.10.54:777][690]LogWorld: Bringing up level for play took: 0.002203
+[2019.04.22-00.10.54:780][690]LogBlueprintUserMessages: [ShopGM_C_0] false
+[2019.04.22-00.10.54:781][690]LogLoad: Took 0.181551 seconds to LoadMap(/Game/Level2)
+[2019.04.22-00.10.57:585][893]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Level1Items/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.22-00.10.57:585][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-00.10.57:627][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-00.10.57:627][893]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Level1Items/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Level1Items/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.22-00.10.57:736][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-00.10.57:785][894]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.04.22-00.11.01:694][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-00.11.09:469][452]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widget/GunShopWidget.GunShopWidget
+[2019.04.22-00.16.56:345][812]LogAIModule: Creating AISystem for world Level2
+[2019.04.22-00.16.56:352][812]LogAssetEditorManager: Opening Asset editor for World /Game/Level2.Level2
+[2019.04.22-00.16.57:462][812]Cmd: MAP LOAD FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.22-00.16.57:500][812]LightingResults: New page: Lighting Build
+[2019.04.22-00.16.57:630][812]LoadErrors: New page: Loading map: Level2.umap
+[2019.04.22-00.16.57:978][812]MapCheck: New page: Map Check
+[2019.04.22-00.16.57:978][812]LightingResults: New page: Lighting Build
+[2019.04.22-00.16.59:529][812]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.22-00.16.59:758][812]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.22-00.16.59:789][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 26.377ms to complete.
+[2019.04.22-00.16.59:789][812]LogFileHelpers: Loading map 'Level2' took 3.280
+[2019.04.22-00.18.01:401][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.22-00.18.01:542][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Level2.Level2_C' with ClassGeneratedBy '/Game/Level2.Level2:PersistentLevel.Level2'
+[2019.04.22-00.18.01:542][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-00.18.01:542][ 63]PIE: New page: PIE session: Level2 (Apr 21, 2019, 4:18:01 PM)
+[2019.04.22-00.18.01:543][ 63]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level2
+[2019.04.22-00.18.01:545][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002588s)
+[2019.04.22-00.18.01:742][ 63]LogAIModule: Creating AISystem for world Level2
+[2019.04.22-00.18.01:742][ 63]LogPlayLevel: PIE: World Init took: (0.197315s)
+[2019.04.22-00.18.01:743][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level2.Level2 to /Game/UEDPIE_0_Level2.Level2 (0.200106s)
+[2019.04.22-00.18.01:913][ 63]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.22-00.18.01:930][ 63]LogInit: FAudioDevice initialized.
+[2019.04.22-00.18.01:968][ 63]LogLoad: Game class is 'ShopGM_C'
+[2019.04.22-00.18.01:970][ 63]LogWorld: Bringing World /Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.04.21-20.18.01
+[2019.04.22-00.18.01:971][ 63]LogWorld: Bringing up level for play took: 0.001187
+[2019.04.22-00.18.01:986][ 63]LogBlueprintUserMessages: [ShopGM_C_0] false
+[2019.04.22-00.18.01:987][ 63]PIE: Play in editor start time for /Game/UEDPIE_0_Level2 -0.122
+[2019.04.22-00.18.01:988][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Level2.Level2_C' with ClassGeneratedBy '/Game/Level2.Level2:PersistentLevel.Level2'
+[2019.04.22-00.18.06:236][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-00.18.22:728][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-00.18.24:282][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Level2.Level2_C' with ClassGeneratedBy '/Game/Level2.Level2:PersistentLevel.Level2'
+[2019.04.22-00.18.24:283][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-00.18.24:325][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-00.18.24:325][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Level2.Level2_C' with ClassGeneratedBy '/Game/Level2.Level2:PersistentLevel.Level2'
+[2019.04.22-00.18.24:433][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-00.18.24:475][606]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.04.22-00.18.53:565][468]LogSlate: Took 0.050012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.04.22-00.19.48:035][ 20]BlueprintLog: New page: Compile GunShopWidget
+[2019.04.22-00.19.48:861][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/GunShopWidget" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/Widget/GunShopWidget.uasset" SILENT=true
+[2019.04.22-00.19.49:140][ 53]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/GunShopWidgetB8129E9C4ECA6DA710AA2E80457570CA.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/Widget/GunShopWidget.uasset'
+[2019.04.22-00.19.51:537][253]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.22-00.19.51:597][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Level2.Level2_C' with ClassGeneratedBy '/Game/Level2.Level2:PersistentLevel.Level2'
+[2019.04.22-00.19.51:597][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-00.19.51:597][253]PIE: New page: PIE session: Level2 (Apr 21, 2019, 4:19:51 PM)
+[2019.04.22-00.19.51:597][253]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level2
+[2019.04.22-00.19.51:615][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017240s)
+[2019.04.22-00.19.51:615][253]LogAIModule: Creating AISystem for world Level2
+[2019.04.22-00.19.51:616][253]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2019.04.22-00.19.51:616][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level2.Level2 to /Game/UEDPIE_0_Level2.Level2 (0.018370s)
+[2019.04.22-00.19.51:778][253]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.22-00.19.51:797][253]LogInit: FAudioDevice initialized.
+[2019.04.22-00.19.51:835][253]LogLoad: Game class is 'ShopGM_C'
+[2019.04.22-00.19.51:836][253]LogWorld: Bringing World /Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.04.21-20.19.51
+[2019.04.22-00.19.51:837][253]LogWorld: Bringing up level for play took: 0.001167
+[2019.04.22-00.19.51:853][253]LogBlueprintUserMessages: [ShopGM_C_0] false
+[2019.04.22-00.19.51:854][253]PIE: Play in editor start time for /Game/UEDPIE_0_Level2 -0.256
+[2019.04.22-00.19.51:854][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Level2.Level2_C' with ClassGeneratedBy '/Game/Level2.Level2:PersistentLevel.Level2'
+[2019.04.22-00.19.55:693][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-00.19.59:721][808]LogNet: Browse: /Game/Level1Items/MainLevel
+[2019.04.22-00.19.59:722][808]LogLoad: LoadMap: /Game/Level1Items/MainLevel
+[2019.04.22-00.20.00:038][808]LogAIModule: Creating AISystem for world MainLevel
+[2019.04.22-00.20.00:038][808]LogLoad: Game class is 'ShopGM_C'
+[2019.04.22-00.20.00:279][808]LogWorld: Bringing World /Game/Level1Items/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.04.21-20.20.00
+[2019.04.22-00.20.00:280][808]LogWorld: Bringing up level for play took: 0.241015
+[2019.04.22-00.20.00:286][808]LogBlueprintUserMessages: [ShopGM_C_0] true
+[2019.04.22-00.20.00:287][808]LogLoad: Took 0.565305 seconds to LoadMap(/Game/Level1Items/MainLevel)
+[2019.04.22-00.20.02:494][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Level2.Level2_C' with ClassGeneratedBy '/Game/Level2.Level2:PersistentLevel.Level2'
+[2019.04.22-00.20.02:494][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-00.20.02:543][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-00.20.02:543][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Level2.Level2_C' with ClassGeneratedBy '/Game/Level2.Level2:PersistentLevel.Level2'
+[2019.04.22-00.20.02:653][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-00.20.02:697][943]LogPlayLevel: Display: Destroying online subsystem :Context_47
