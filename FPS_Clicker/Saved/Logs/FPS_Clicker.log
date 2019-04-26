@@ -3202,3 +3202,208 @@ Make sure 'NewShopGM' has been compiled for  Get EntryPoint1
 [2019.04.26-03.26.08:956][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.04.26-03.26.09:011][812]LogPlayLevel: Display: Destroying online subsystem :Context_23
 [2019.04.26-03.26.11:334][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-03.29.41:124][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-03.32.09:118][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:118][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:118][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:119][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:119][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:119][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:119][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:120][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:120][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:120][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:123][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:124][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:124][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:124][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:124][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:125][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:125][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:125][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:126][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.09:126][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:557][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:557][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:557][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:558][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:558][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:558][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:558][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:559][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:559][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:559][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:562][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:562][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:562][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:562][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:563][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:563][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:563][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:563][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:564][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.32.10:564][274]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2019.04.26-03.33.51:944][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-03.34.36:383][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShopBlueprints/NewShopGM" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset" SILENT=true
+[2019.04.26-03.34.37:093][683]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/NewShopGME57218D74DFAA30EC89BECA27B0F4DDE.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset'
+[2019.04.26-03.39.47:266][320]LogEditorViewport: Clicking on Actor (LMB): Range3Sign_C (Range3Sign)
+[2019.04.26-03.39.54:106][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-03.40.33:111][188]BlueprintLog: New page: Compile Range3Sign
+[2019.04.26-03.41.23:342][309]BlueprintLog: New page: Compile Range3Sign
+[2019.04.26-03.41.24:393][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevelContent/Range3Sign" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/MainLevelContent/Range3Sign.uasset" SILENT=true
+[2019.04.26-03.41.24:697][360]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/Range3SignB1D35FDE471B6A25B44C74A08FF5C3AB.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/MainLevelContent/Range3Sign.uasset'
+[2019.04.26-03.41.43:886][821]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/MainLevel2AC5C3CB4D01EE17BE3202BC6BCFC8D6.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/MainLevelContent/MainLevel.umap'
+[2019.04.26-03.41.45:751][821]LogFileHelpers: Saving map 'MainLevel' took 2.773
+[2019.04.26-03.41.46:090][821]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/UpgradeRange3WidgetCA6F1D494038D1ADE71C67A422F9971D.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/MainLevelContent/UpgradeRange3Widget.uasset'
+[2019.04.26-03.41.47:671][932]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.26-03.41.47:745][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevelContent/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.26-03.41.47:745][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-03.41.47:746][932]PIE: New page: PIE session: MainLevel (Apr 25, 2019, 7:41:47 PM)
+[2019.04.26-03.41.47:746][932]LogPlayLevel: Creating play world package: /Game/MainLevelContent/UEDPIE_0_MainLevel
+[2019.04.26-03.41.47:775][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028852s)
+[2019.04.26-03.41.47:776][932]LogAIModule: Creating AISystem for world MainLevel
+[2019.04.26-03.41.47:776][932]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2019.04.26-03.41.47:776][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevelContent/MainLevel.MainLevel to /Game/MainLevelContent/UEDPIE_0_MainLevel.MainLevel (0.029954s)
+[2019.04.26-03.41.47:913][932]LogInit: XAudio2 using '6 - ASUS VS228 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.26-03.41.47:930][932]LogInit: FAudioDevice initialized.
+[2019.04.26-03.41.47:971][932]LogLoad: Game class is 'ShopGM_C'
+[2019.04.26-03.41.47:987][932]LogWorld: Bringing World /Game/MainLevelContent/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.04.25-23.41.47
+[2019.04.26-03.41.47:989][932]LogWorld: Bringing up level for play took: 0.016153
+[2019.04.26-03.41.48:010][932]LogBlueprintUserMessages: [ShopGM_C_0] false
+[2019.04.26-03.41.48:010][932]LogBlueprintUserMessages: [ShopGM_C_0] MainLevel
+[2019.04.26-03.41.48:011][932]PIE: Play in editor start time for /Game/MainLevelContent/UEDPIE_0_MainLevel 0.859
+[2019.04.26-03.41.48:011][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevelContent/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.26-03.41.55:880][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-03.42.02:291][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevelContent/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.26-03.42.02:292][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-03.42.02:339][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-03.42.02:339][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevelContent/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.26-03.42.02:455][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-03.42.02:502][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.04.26-03.42.05:685][301]LogEditorViewport: Clicking on Actor (LMB): Range3Sign_C (Range3Sign)
+[2019.04.26-03.44.20:645][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-03.44.20:944][794]AssetReimport: New page: Outstanding source content changes 7:44:20 PM
+[2019.04.26-03.44.21:335][795]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/AudioAssets/wagon-wheel-by-kevin-macleod.wav)
+[2019.04.26-03.44.26:788][797]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/wagon-wheel-by-kevin-macleod3E6A74194257F377F7C41598616EC0D0.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/AudioAssets/wagon-wheel-by-kevin-macleod.uasset'
+[2019.04.26-03.44.29:823][975]AssetReimport: Importing new asset /Game/AudioAssets/wagon-wheel-by-kevin-macleod.
+[2019.04.26-03.55.09:907][258]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.26-03.55.10:424][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevelContent/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.26-03.55.10:425][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.26-03.55.10:425][258]PIE: New page: PIE session: MainLevel (Apr 25, 2019, 7:55:10 PM)
+[2019.04.26-03.55.10:425][258]LogPlayLevel: Creating play world package: /Game/MainLevelContent/UEDPIE_0_MainLevel
+[2019.04.26-03.55.10:454][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028344s)
+[2019.04.26-03.55.10:455][258]LogAIModule: Creating AISystem for world MainLevel
+[2019.04.26-03.55.10:455][258]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2019.04.26-03.55.10:455][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevelContent/MainLevel.MainLevel to /Game/MainLevelContent/UEDPIE_0_MainLevel.MainLevel (0.029574s)
+[2019.04.26-03.55.10:657][258]LogInit: XAudio2 using '6 - ASUS VS228 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.26-03.55.10:673][258]LogInit: FAudioDevice initialized.
+[2019.04.26-03.55.10:712][258]LogLoad: Game class is 'ShopGM_C'
+[2019.04.26-03.55.10:727][258]LogWorld: Bringing World /Game/MainLevelContent/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.04.25-23.55.10
+[2019.04.26-03.55.10:728][258]LogWorld: Bringing up level for play took: 0.014844
+[2019.04.26-03.55.10:748][258]LogBlueprintUserMessages: [ShopGM_C_0] false
+[2019.04.26-03.55.10:748][258]LogBlueprintUserMessages: [ShopGM_C_0] MainLevel
+[2019.04.26-03.55.10:749][258]PIE: Play in editor start time for /Game/MainLevelContent/UEDPIE_0_MainLevel -0.403
+[2019.04.26-03.55.10:749][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevelContent/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.26-03.55.22:683][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-03.55.34:258][522]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevelContent/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.26-03.55.34:259][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-03.55.34:312][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.26-03.55.34:312][522]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevelContent/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevelContent/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.04.26-03.55.34:414][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.26-03.55.34:456][523]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.04.26-03.57.24:286][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-04.05.18:176][402]LogSlate: Took 0.104994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.26-04.09.25:387][300]BlueprintLog: New page: Compile ShopGM
+[2019.04.26-04.09.25:574][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SMGBasePowerCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get SMGBasePowerCost
+[2019.04.26-04.09.25:575][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SMGPowerLevel" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get SMGPowerLevel
+[2019.04.26-04.09.25:575][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SMGBaseClipCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get SMGBaseClipCost
+[2019.04.26-04.09.25:575][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SMGClipLevel" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get SMGClipLevel
+[2019.04.26-04.09.25:575][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SMGPowerCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Set SMGPowerCost
+[2019.04.26-04.09.25:576][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SMGClipCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Set SMGClipCost
+[2019.04.26-04.09.25:576][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "ARBasePowerCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get ARBasePowerCost
+[2019.04.26-04.09.25:576][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "ARPowerLevel" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get ARPowerLevel
+[2019.04.26-04.09.25:576][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "ARClipLevel" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get ARClipLevel
+[2019.04.26-04.09.25:576][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "ARBaseClipCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get ARBaseClipCost
+[2019.04.26-04.09.25:577][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "ARPowerCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Set ARPowerCost
+[2019.04.26-04.09.25:577][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "ARClipCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Set ARClipCost
+[2019.04.26-04.09.25:577][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SGBasePowerCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get SGBasePowerCost
+[2019.04.26-04.09.25:577][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SGPowerLevel" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get SGPowerLevel
+[2019.04.26-04.09.25:578][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SGBaseClipCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get SGBaseClipCost
+[2019.04.26-04.09.25:578][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SGClipLevel" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Get SGClipLevel
+[2019.04.26-04.09.25:578][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SGPowerCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Set SGPowerCost
+[2019.04.26-04.09.25:578][300]LogBlueprint: Warning: [Compiler ShopGM] Could not find a variable named "SGClipCost" in 'ShopGM_C'.
+Make sure 'ShopGM_C' has been compiled for  Set SGClipCost
+[2019.04.26-04.09.25:581][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SGClip Level  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:582][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SGBase Clip Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:582][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SGPower Level  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:582][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SGBase Power Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:582][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SGClip Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:582][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  ARBase Clip Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:582][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  ARClip Level  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:583][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SGPower Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:583][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  ARPower Level  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:583][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  ARBase Power Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:583][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  ARClip Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:583][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SMGClip Level  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:583][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  ARPower Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:583][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SMGBase Clip Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:584][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SMGPower Level  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:584][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SMGBase Power Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:584][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SMGClip Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.25:584][300]LogBlueprint: Error: [Compiler ShopGM] The property associated with  SMGPower Cost  could not be found in '/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM_C'
+[2019.04.26-04.09.26:068][300]LogBlueprint: Warning: [Compiler ShopGM] [3369.13] Compile of ShopGM failed. 18 Fatal Issue(s) 18 Warning(s) [in 681 ms] (/Game/ShopLevelContent/ShopBlueprints/ShopGM.ShopGM)
+[2019.04.26-04.14.03:229][535]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevelContent/MainLevel' took 0.148
+[2019.04.26-04.14.03:311][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ShopBlueprints/NewShopGM] ([1] browsable assets)...
+[2019.04.26-04.14.03:311][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShopBlueprints/NewShopGM]
+[2019.04.26-04.14.03:923][535]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/NewShopGM_Auto10C3A6CD140B11FD1D2DD76ABF66860A9.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/Autosaves/Game/ShopBlueprints/NewShopGM_Auto1.uasset'
+[2019.04.26-04.14.03:942][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ShopLevelContent/ShopBlueprints/ShopGM] ([1] browsable assets)...
+[2019.04.26-04.14.03:942][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShopLevelContent/ShopBlueprints/ShopGM]
+[2019.04.26-04.14.04:834][535]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/ShopGM_Auto193FEEC65491F2FBC441021BB85278EBF.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/Autosaves/Game/ShopLevelContent/ShopBlueprints/ShopGM_Auto1.uasset'
+[2019.04.26-04.14.04:837][535]LogFileHelpers: Auto-saving content packages took 1.607
+[2019.04.26-04.21.16:984][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShopBlueprints/NewShopGM" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset" SILENT=true
+[2019.04.26-04.21.17:167][468]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/NewShopGMAF1168B14B816632C83D89B3FA921BE7.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset'
+[2019.04.26-04.21.18:254][509]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/ShopGMFFB7CBFE41FB2EBD6E8189B35B6F0567.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopLevelContent/ShopBlueprints/ShopGM.uasset'
+[2019.04.26-04.21.19:102][549]BlueprintLog: New page: Compile ShopGM
+[2019.04.26-04.24.01:953][668]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/ShopGM3F0528B848A996FC445D50889989906E.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopLevelContent/ShopBlueprints/ShopGM.uasset'
+[2019.04.26-04.24.02:458][689]BlueprintLog: New page: Compile NewShopGM
+[2019.04.26-04.24.02:570][689]LogBlueprint: Error: [Compiler NewShopGM] Spawn node  Create Widget  must have a class specified.
+[2019.04.26-04.24.02:571][689]LogBlueprint: Warning: [Compiler NewShopGM] Could not find a variable named "MoneyBlock" in 'NewShopGM'.
+Make sure 'NewShopGM' has been compiled for  Get MoneyBlock
+[2019.04.26-04.24.02:571][689]LogBlueprint: Error: [Compiler NewShopGM] Can't connect pins  Object  and  Widget Holder : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.04.26-04.24.02:571][689]LogBlueprint: Error: [Compiler NewShopGM] In use pin  As Money UI  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.04.26-04.24.02:571][689]LogBlueprint: Error: [Compiler NewShopGM] Can't connect pins  Widget Holder  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.04.26-04.24.02:572][689]LogBlueprint: Warning: [Compiler NewShopGM] Could not find a variable named "EntryPoint1" in 'NewShopGM'.
+Make sure 'NewShopGM' has been compiled for  Get EntryPoint1
+[2019.04.26-04.24.02:572][689]LogBlueprint: Error: [Compiler NewShopGM] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.04.26-04.24.02:572][689]LogBlueprint: Error: [Compiler NewShopGM] In use pin  As Test Game Instance  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.04.26-04.24.02:572][689]LogBlueprint: Error: [Compiler NewShopGM] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.04.26-04.24.02:578][689]LogBlueprint: Error: [Compiler NewShopGM] The property associated with  Entry Point 1  could not be found in '/Game/ShopBlueprints/NewShopGM.NewShopGM_C'
+[2019.04.26-04.24.03:603][689]LogBlueprint: Warning: [Compiler NewShopGM] [4246.66] Compile of NewShopGM failed. 8 Fatal Issue(s) 2 Warning(s) [in 1,143 ms] (/Game/ShopBlueprints/NewShopGM.NewShopGM)
+[2019.04.26-04.24.04:991][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShopBlueprints/NewShopGM" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset" SILENT=true
+[2019.04.26-04.24.05:151][745]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/NewShopGM33689B51480F11AEEDC2DD82F3AA4841.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset'
+[2019.04.26-04.24.06:732][809]BlueprintLog: New page: Compile ShopGM
+[2019.04.26-04.24.11:557][988]BlueprintLog: New page: Compile NewShopGM
+[2019.04.26-04.24.14:499][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShopBlueprints/NewShopGM" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset" SILENT=true
+[2019.04.26-04.24.14:656][106]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/NewShopGM1E2F74DB40BE15BEF54BE28BDF62B589.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset'
+[2019.04.26-04.24.15:300][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShopBlueprints/NewShopGM" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset" SILENT=true
+[2019.04.26-04.24.15:432][138]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/NewShopGMDBC44E5C466EF7985E074084C44B54DE.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset'
+[2019.04.26-04.24.28:271][803]BlueprintLog: New page: Compile NewShopGM
+[2019.04.26-04.24.29:400][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShopBlueprints/NewShopGM" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset" SILENT=true
+[2019.04.26-04.24.29:539][828]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/NewShopGM0C50C91B4B305CC1DD635588390EDEAF.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset'
