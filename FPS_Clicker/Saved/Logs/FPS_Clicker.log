@@ -3407,3 +3407,35 @@ Make sure 'NewShopGM' has been compiled for  Get EntryPoint1
 [2019.04.26-04.24.28:271][803]BlueprintLog: New page: Compile NewShopGM
 [2019.04.26-04.24.29:400][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShopBlueprints/NewShopGM" FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset" SILENT=true
 [2019.04.26-04.24.29:539][828]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/NewShopGM0C50C91B4B305CC1DD635588390EDEAF.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/ShopBlueprints/NewShopGM.uasset'
+[2019.04.26-04.37.15:738][452]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevelContent/MainLevel' took 0.101
+[2019.04.26-04.37.15:740][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainLevelContent/TestGameInstance] ([1] browsable assets)...
+[2019.04.26-04.37.15:740][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainLevelContent/TestGameInstance]
+[2019.04.26-04.37.15:859][452]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/TestGameInstance_Auto20043F37D4FA4B3D42B2B40959E870E9C.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/Autosaves/Game/MainLevelContent/TestGameInstance_Auto2.uasset'
+[2019.04.26-04.37.15:861][452]LogFileHelpers: Auto-saving content packages took 0.121
+[2019.04.26-04.40.17:813][115]BlueprintLog: New page: Compile TestGameInstance
+[2019.04.26-04.41.12:490][488]BlueprintLog: New page: Compile TestGameInstance
+[2019.04.26-04.42.26:538][949]BlueprintLog: New page: Compile TestGameInstance
+[2019.04.26-04.45.50:918][976]BlueprintLog: New page: Compile TestGameInstance
+[2019.04.26-04.46.38:154][  2]BlueprintLog: New page: Compile TestGameInstance
+[2019.04.26-04.49.02:651][711]BlueprintLog: New page: Compile TestGameInstance
+[2019.04.26-04.50.28:208][409]BlueprintLog: New page: Compile TestGameInstance
+[2019.04.26-04.50.30:536][498]LogSavePackage: Moving '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Saved/TestGameInstanceD2B17BA34D4822381D60C187BA738146.tmp' to '../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/MainLevelContent/TestGameInstance.uasset'
+[2019.04.26-04.50.33:067][609]LogSlate: Window 'TestGameInstance' being destroyed
+[2019.04.26-04.50.34:603][685]LogSlate: Window 'TestGameInstance' being destroyed
+[2019.04.26-04.50.35:549][742]LogSlate: Window 'NewShopGM' being destroyed
+[2019.04.26-04.50.37:166][838]LogSlate: Window 'NewShopGM' being destroyed
+[2019.04.26-04.51.06:476][928]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2019.04.26-04.51.06:600][928]Cmd: MAP LOAD FILE="../../../../../../Users/Isaac/Documents/GitHub/FPS_Clicker/FPS_Clicker/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.26-04.51.06:607][928]LightingResults: New page: Lighting Build
+[2019.04.26-04.51.06:618][928]LoadErrors: New page: Loading map: Level2.umap
+[2019.04.26-04.51.06:701][928]MapCheck: New page: Map Check
+[2019.04.26-04.51.06:701][928]LightingResults: New page: Lighting Build
+[2019.04.26-04.51.07:274][928]LogEditorServer: Finished looking for orphan Actors (0.050 secs)
+[2019.04.26-04.51.07:602][928]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.26-04.51.07:602][928]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2019.04.26-04.51.07:604][928]LogFileHelpers: Loading map 'Level2' took 1.021
+[2019.04.26-04.51.09:564][ 72]LogEditorViewport: Clicking on Actor (LMB): DoorBP1_C (DoorBP1)
+[2019.04.26-04.51.11:054][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.26-04.51.11:117][152]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MainLevelContent/DoorBP1.DoorBP1
+[2019.04.26-04.54.42:150][184]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widget/NewGunShopWidget.NewGunShopWidget
+[2019.04.26-04.56.23:328][406]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
