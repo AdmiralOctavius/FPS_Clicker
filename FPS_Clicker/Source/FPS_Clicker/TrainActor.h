@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "Runtime/Engine/Classes/Components/PointLightComponent.h"	
-
+#include "Runtime/Core/Public/Math/UnrealMathUtility.h"
 #include "TrainActor.generated.h"
 
 UCLASS()
@@ -22,6 +22,11 @@ protected:
 	virtual void BeginPlay() override;
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	FVector baseColor;
+
+	UPROPERTY(BlueprintReadWrite, EditAnywhere)
+	FVector BaseRate;
+
+	float baseMax;
 
 	//UPointLightComponent myLight;
 	class UPointLightComponent* myLight;

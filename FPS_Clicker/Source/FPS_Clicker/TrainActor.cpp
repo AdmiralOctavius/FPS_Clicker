@@ -13,6 +13,7 @@ ATrainActor::ATrainActor()
 	myLight = CreateDefaultSubobject<UPointLightComponent>(TEXT("MyLight"));
 	myLight->SetHiddenInGame(false, true);
 	RootComponent = myLight;
+	baseMax = 255;
 }
 
 // Called when the game starts or when spawned
@@ -33,10 +34,24 @@ void ATrainActor::Tick(float DeltaTime)
 
 void ATrainActor::UpdateLight() {
 
+	
+
 	convertColor.R = baseColor.X;
 	convertColor.G = baseColor.Y;
 	convertColor.B = baseColor.Z;
 	
+	baseColor.X = baseColor.X + BaseRate.X;
+	baseColor.Y = baseColor.Y + BaseRate.Y;
+	baseColor.Z = baseColor.Z + BaseRate.Z;
+	if (baseColor.X > 255) {
+		baseColor.X = 0;
+	}
+	if (baseColor.Y > 255) {
+		baseColor.Y = 0;
+	}
+	if (baseColor.Z > 255) {
+		baseColor.Z = 0;
+	}
 	myLight->SetLightColor(convertColor, false);
 }
 
